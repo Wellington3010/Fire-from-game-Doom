@@ -1,0 +1,1 @@
+Para funs do gamer DOOM e para todos os aficcionados pelos jogos 16-bits dos bons e velhos consoles como Super-Nitendo e Megadrive segue uma pequena animação do cenário do jogo DOOM, feita em Javascript e HTML5.
